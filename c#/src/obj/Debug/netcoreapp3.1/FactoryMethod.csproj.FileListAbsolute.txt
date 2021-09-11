@@ -1,0 +1,9 @@
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Factory Method\c#\src\bin\Debug\netcoreapp3.1\FactoryMethod.deps.json
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Factory Method\c#\src\bin\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Factory Method\c#\src\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Factory Method\c#\src\obj\Debug\netcoreapp3.1\FactoryMethod.csprojAssemblyReference.cache
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Factory Method\c#\src\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfoInputs.cache
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Factory Method\c#\src\obj\Debug\netcoreapp3.1\FactoryMethod.AssemblyInfo.cs
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Factory Method\c#\src\obj\Debug\netcoreapp3.1\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Factory Method\c#\src\obj\Debug\netcoreapp3.1\FactoryMethod.dll
+C:\Users\Theod\Desktop\Pro\Project\Tutorial\Design Pattern\Factory Method\c#\src\obj\Debug\netcoreapp3.1\FactoryMethod.pdb
